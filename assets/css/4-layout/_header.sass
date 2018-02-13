@@ -1,0 +1,44 @@
+// Header
+$hero-img-size: 240px
+$hero-logo-size: 120px
+
+header
+    @include bg_section
+    position: relative
+    display: flex
+    flex-direction: row
+    width: 100vw
+    height: 100vh
+    padding: 70px 0 100px 0
+
+    .hero-text
+        font-family: $font-family-hero-title
+        color: $text_icons
+        text-align: center
+        letter-spacing: 5px
+        padding: 5px 0 5px 0
+        font-size: 5vw !important
+        text-shadow: $text-shadow
+
+    .slogen
+        text-align: center
+        letter-spacing: 3px
+        padding: 0 0 15px 0
+        font-size: 1.5vw !important
+        text-shadow: $text-shadow
+
+.hero-img_container
+    display: flex
+    flex-direction: row
+    justify-content: center
+    margin: 20vh 0 0 0
+
+    .hero-img
+        width: $hero-img-size
+        height: $hero-img-size
+        filter: drop-shadow($shadow2)
+    
+#hero-logo
+    width: $hero-logo-size
+    height: $hero-logo-size
+    margin: 60px 20px
