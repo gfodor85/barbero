@@ -49,23 +49,29 @@
     <?php include 'partials/navigation.php';?>
 
     <header>
-        
-        <div class="hero-img_container">
-            <svg class="hero-img">
-                <use xlink:href="assets/img/svg/symbols.svg#hero-img"></use>
-            </svg>
-        </div>
 
-        <div>
-            <div class="hero-text">Dentico</div>
-            <div class="slogen">Your Smile. Our Passion.</div>
+        <div class="container hero-title_container">
+            <div class="row">
+                <div class="col-lg-6 mark">
+                    <svg class="hero-img">
+                        <use xlink:href="assets/img/svg/symbols.svg#scissors"></use>
+                    </svg>
+                <div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 mark hero-title_container">
+                    <div class="hero-text">Barbero</div>
+                    <div class="slogen">The Barbershop</div>
+                </div>
+            </div>
         </div>
 
     </header>
 
-    <section class="container treatment_type_container">
+    <section class="container">
         <div class="row">
-            <div class="col-lg-4" data-toggle="modal" data-target="#general_care">
+
+            <div class="col-lg-4">
                     <div class="treatment_type_col">
                         <div class="treatment_type_box">
                             <div class="text-top"><h5>General Care</h5></div>
@@ -75,31 +81,7 @@
                     </div>
             </div>
 
-            <div class="col-lg-4" data-toggle="modal" data-target="#general_care">
-                    <div class="treatment_type_col">
-                        <div class="treatment_type_box">
-                            <div class="text-top"><h5>Cosmetic Dentistry</h5></div>
-                            <div class="text-bottom"><h6>Click for details</h6></div>
-                        </div>
-                        <img src="assets/img/cosmetic_dentistry.png">
-                    </div>
-            </div>
-
-            <div class="col-lg-4" data-toggle="modal" data-target="#general_care">
-                    <div class="treatment_type_col">
-                        <div class="treatment_type_box">
-                            <div class="text-top"><h5>Restorative Dentistry</h5></div>
-                            <div class="text-bottom"><h6>Click for details</h6></div>
-                        </div>
-                        <img src="assets/img/restorative_dentistry.png">
-                    </div>
-            </div>
-
-            
-            
         </div>
-
-        
 
     </section>
 
