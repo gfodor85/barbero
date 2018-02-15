@@ -1,6 +1,5 @@
 // Header
-$hero-img-size: 240px
-$hero-logo-size: 120px
+$hero-img-size: 350px
 
 header
     @include bg_section
@@ -8,39 +7,18 @@ header
     display: flex
     flex-direction: row
     width: 100vw
-    height: 100vh
+    height: 80vh
     padding: 70px 0 100px 0
 
-    .hero-title_container
-        position: relative
-        top: 0
-        font-family: $font-family-hero-title
-
-        .hero-text
-            color: $text_icons
-            text-align: center
-            letter-spacing: 5px
-            padding: 5px 0 5px 0
-            font-size: 7vw !important
-            text-shadow: $text-shadow
-
-        .slogen
-            position: relative
-            top: -60px
-            left: 100px
-            text-align: center
-            letter-spacing: 3px
-            padding: 0 0 15px 0
-            font-size: 1.5vw !important
-            text-shadow: $text-shadow
-
-        .hero-img
-            margin: 0 auto
-            width: $hero-img-size
-            height: $hero-img-size
-            filter: drop-shadow($shadow2)
+    .hero-logo
+        display: block
+        margin: 0 auto
+        width: $hero-img-size
+        height: $hero-img-size
+        filter: drop-shadow($shadow2)
     
-#hero-logo
-    width: $hero-logo-size
-    height: $hero-logo-size
-    margin: 60px 20px
+    .hero-img
+        position: relative
+        top: 200px
+        
+

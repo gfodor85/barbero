@@ -50,18 +50,15 @@
 
     <header>
 
-        <div class="container hero-title_container">
+        <div class="container">
             <div class="row">
-                <div class="col-lg-6 mark">
-                    <svg class="hero-img">
-                        <use xlink:href="assets/img/svg/symbols.svg#scissors"></use>
+                <div class="col-lg-6">
+                    <svg class="hero-logo">
+                        <use xlink:href="assets/img/svg/symbols.svg#hero_logo"></use>
                     </svg>
-                <div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 mark hero-title_container">
-                    <div class="hero-text">Barbero</div>
-                    <div class="slogen">The Barbershop</div>
+                </div>
+                <div class="col-lg-6 mark hero-img">
+                    <img src="assets/img/hero-img.png">
                 </div>
             </div>
         </div>
