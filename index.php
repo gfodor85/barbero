@@ -57,7 +57,7 @@
                         <use xlink:href="assets/img/svg/symbols.svg#hero_logo"></use>
                     </svg>
                 </div>
-                <div class="col-lg-6 mark hero-img">
+                <div class="col-lg-6 hero-img">
                     <img src="assets/img/hero-img.png">
                 </div>
             </div>
@@ -65,22 +65,6 @@
 
     </header>
 
-    <section class="container">
-        <div class="row">
-
-            <div class="col-lg-4">
-                    <div class="treatment_type_col">
-                        <div class="treatment_type_box">
-                            <div class="text-top"><h5>General Care</h5></div>
-                            <div class="text-bottom"><h6>Click for details</h6></div>
-                        </div>
-                        <img src="assets/img/general_care.png">
-                    </div>
-            </div>
-
-        </div>
-
-    </section>
 
     <!-- About Us -->
 
@@ -88,54 +72,11 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-md-12 about_content">
-                    
-                    <h4 class="text-center">About Us<hr class="default-hr"></h4>
-                    
-                    <div class="row">
-                        <div class="col-md-5 text-center">
-                            <img class="team_img" src="assets/img/about_us.jpg">
-                        </div>
-                        <div class="col-md-7">
-                            <p class="about_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
+                <div class="col-lg-6">
+                    <div class="about_content">
+                        <div>About Us</div>
                     </div>
                     
-                    <h4 class="text-center">Our Team<hr class="default-hr"></h4>
-                    <div class="row doctors">
-                        
-                        
-                        <div class="col-md-4 text-center">
-                            <h5>Dr. John Doe</h5>
-                            <h6>Chief Medical Officer</h6>
-                            <div class="phone">
-                                <i class="fa fa-phone fa-lg"></i>
-                                <i class="heading_extra_light">1-800-1234-567</i>
-                            </div>
-                            <img class="doc_img" src="assets/img/doc_1.jpg">
-                        </div>
-
-                        <div class="col-md-4 text-center">
-                            <h5>Dr. Jane Doe</h5>
-                            <h6>Dental Hygienist</h6>
-                            <div class="phone">
-                                <i class="fa fa-phone fa-lg"></i>
-                                <i class="heading_extra_light">1-800-1234-567</i>
-                            </div>
-                            <img class="doc_img" src="assets/img/doc_2.jpg">
-                        </div>
-
-                        <div class="col-md-4 text-center">
-                            <h5>Sara Doe</h5>
-                            <h6>Practical Nurse</h6>
-                            <div class="phone">
-                                <i class="fa fa-phone fa-lg"></i>
-                                <i class="heading_extra_light">1-800-1234-567</i>
-                            </div>
-                            <img class="doc_img" src="assets/img/doc_3.jpg">
-                        </div>
-                        
-                    </div>
-
                 </div>
 
             </div>
