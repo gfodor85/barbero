@@ -78,8 +78,16 @@
         </div>
     </section>
 
-    <!-- Testimonials -->
-    <?php include 'partials/carousel.php';?>
+    <!-- Services -->
+    <div class="services_container">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6 services_content">
+                    <h5>Services</h5>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- Prices -->
     <div id="prices" class="prices_container">
