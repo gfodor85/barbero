@@ -1,9 +1,66 @@
 <!-- MAP -->
 <div class="map-container">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-6">
                     <div id="map"></div> 
+                </div>
+
+                <!-- Opening Hours -->
+                <div class="col-lg-6 text-center opening-hours_container">
+                    <h5>Opening Hours</h5>
+                    <div class="row">
+                        <div class="col-4">
+                            <div class="opening-hours-content">
+                                <h5>Mon</h5><br>
+                                <span>9 am</span><br>
+                                <span>to</span><br>
+                                <span>5 pm</span><br>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="opening-hours-content">
+                                <h5>Mon</h5><br>
+                                <span>9 am</span><br>
+                                <span>to</span><br>
+                                <span>5 pm</span><br>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="opening-hours-content">
+                                <h5>Mon</h5><br>
+                                <span>9 am</span><br>
+                                <span>to</span><br>
+                                <span>5 pm</span><br>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-4">
+                            <div class="opening-hours-content">
+                                <h5>Mon</h5><br>
+                                <span>9 am</span><br>
+                                <span>to</span><br>
+                                <span>5 pm</span><br>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="opening-hours-content">
+                                <h5>Mon</h5><br>
+                                <span>9 am</span><br>
+                                <span>to</span><br>
+                                <span>5 pm</span><br>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="opening-hours-content">
+                                <h5>Mon</h5><br>
+                                <span>9 am</span><br>
+                                <span>to</span><br>
+                                <span>5 pm</span><br>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

@@ -57,7 +57,9 @@
                         <use xlink:href="assets/img/svg/symbols.svg#hero_logo"></use>
                     </svg>
                 </div>
-                <div class="col-lg-5 hero-img"></div>
+                <div class="col-lg-5 hero-img-container">
+                    <div class="hero-img"></div>
+                </div>
             </div>
         </div>
 
@@ -74,6 +76,9 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </p>
                     </div>
                 </div>
+                <div class="col-lg-5 offset-lg-1">
+                    <div class="about_img"></div>
+                </div>
             </div>
         </div>
     </section>
@@ -82,10 +87,25 @@
     <div class="services_container">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-6 services_content">
+                <div class="col-lg-6 text-center">
                     <h5>Services</h5>
                 </div>
             </div>
+            <div class="row text-center">
+                <div class="col-lg-4 services-content">
+                        <h6>Haircut Styles</h6>
+                        <img src="assets/img/haircut.jpg">
+                </div>
+                <div class="col-lg-4 services-content">
+                        <h6>Beard Triming</h6>
+                        <img src="assets/img/haircut.jpg">
+                </div>
+                <div class="col-lg-4 services-content">
+                    <h6>Hot Shave</h6>
+                    <img class="services-img" src="assets/img/hot-shaving.jpg">
+                </div>
+            </div>
+            
         </div>
     </div>
 
@@ -93,8 +113,7 @@
     <div id="prices" class="prices_container">
         <div class="container">
             <h4 class="text-center">Our Prices<hr class="default-hr"></h4>
-            <div class="row">
-                
+            <div class="row justify-content-center">
               <div class="col-lg-6">
                   <table class="table table-hover borderless">
                       <tbody>
@@ -120,36 +139,7 @@
                           </tr>
                     </tbody>
                   </table>
-            </div>
-                
-                <div class="col-lg-6">
-                      <table class="table table-hover borderless">
-                        
-                        <tbody>
-                          <tr>
-                            <td class="price_text">Lorem ipsum dolor sit amet</td>
-                            <td class="price_number">$ 14.00</td>
-                          </tr>
-                          <tr>
-                            <td  class="price_text">Lorem ipsum dolor sit amet</td>
-                            <td class="price_number">$ 14.00</td>
-                          </tr>
-                          <tr>
-                            <td  class="price_text">Lorem ipsum dolor sit amet</td>
-                            <td class="price_number">$ 14.00</td>
-                          </tr>
-                          <tr>
-                            <td  class="price_text">Lorem ipsum dolor sit amet</td>
-                            <td class="price_number">$ 14.00</td>
-                          </tr>
-                        <tr>
-                            <td  class="price_text">Lorem ipsum dolor sit amet</td>
-                            <td class="price_number">$ 14.00</td>
-                          </tr>
-                        </tbody>
-                      </table>
-                </div>
-            </div>
+            </div>        
         </div>
     </div>
 

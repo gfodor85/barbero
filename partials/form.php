@@ -1,7 +1,7 @@
 
 <!-- FORM -->
 <div class="container form-container" id="contact">
-<h2>Do you have any question? Leave Us a message!</h2>
+<h2>Book now!</h2>
 
 <div class="row justify-content-center">
     <div class="col-md-6 col-md-offset-3">
@@ -12,7 +12,7 @@
                 <input class="form-control" type="text" name="name" placeholder="Please add your name" required>
             </div><br>
             <div class="from-group">
-                <input class="form-control" type="text" name="subject" placeholder="Subject" required>
+                <input class="form-control" type="text" name="subject" placeholder="Your phone number" required>
             </div><br>
             <div class="from-group">
                 <input class="form-control" type="email" name="email" placeholder="Please add your email address" required>
