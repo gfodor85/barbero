@@ -169,7 +169,7 @@
 
     <!-- Footer -->
     <footer>
-        <span>Dentico © <?php echo date(" Y");?> All Rights Reserved by George Fodor</span>
+        <span>Barbero © <?php echo date(" Y");?> All Rights Reserved by George Fodor</span>
     </footer>
 
 

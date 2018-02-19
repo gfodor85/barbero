@@ -85,7 +85,7 @@
                 
                 <div class="col-lg-4">
                     <div>
-                        <i class="fa fa-envelope" aria-hidden="true" id="address"><div class="address_text">dentico@dentico.com</div></i>
+                        <i class="fa fa-envelope" aria-hidden="true" id="address"><div class="address_text">barbero@barbero.com</div></i>
                     </div>
                 </div>
             </div>
