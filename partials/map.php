@@ -20,7 +20,7 @@
                         </div>
                         <div class="col-4">
                             <div class="opening-hours-content">
-                                <h5>Mon</h5><br>
+                                <h5>Tue</h5><br>
                                 <span>9 am</span><br>
                                 <span>to</span><br>
                                 <span>5 pm</span><br>
@@ -28,7 +28,7 @@
                         </div>
                         <div class="col-4">
                             <div class="opening-hours-content">
-                                <h5>Mon</h5><br>
+                                <h5>Wed</h5><br>
                                 <span>9 am</span><br>
                                 <span>to</span><br>
                                 <span>5 pm</span><br>
@@ -38,7 +38,7 @@
                     <div class="row">
                         <div class="col-4">
                             <div class="opening-hours-content">
-                                <h5>Mon</h5><br>
+                                <h5>Thu</h5><br>
                                 <span>9 am</span><br>
                                 <span>to</span><br>
                                 <span>5 pm</span><br>
@@ -46,7 +46,7 @@
                         </div>
                         <div class="col-4">
                             <div class="opening-hours-content">
-                                <h5>Mon</h5><br>
+                                <h5>Fri</h5><br>
                                 <span>9 am</span><br>
                                 <span>to</span><br>
                                 <span>5 pm</span><br>
@@ -54,7 +54,7 @@
                         </div>
                         <div class="col-4">
                             <div class="opening-hours-content">
-                                <h5>Mon</h5><br>
+                                <h5>Sat</h5><br>
                                 <span>9 am</span><br>
                                 <span>to</span><br>
                                 <span>5 pm</span><br>
