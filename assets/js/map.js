@@ -4,8 +4,8 @@ var map = new google.maps.Map(document.getElementById('map'), {
 	center: {lat: 40.674, lng: -73.945},
 	zoom: 12,
 	styles: [
-	{elementType: 'geometry', stylers: [{color: '#00bbae'}]},
-	{elementType: 'labels.text.stroke', stylers: [{color: '#00bbae'}]},
+	{elementType: 'geometry', stylers: [{color: '#b48259'}]},
+	{elementType: 'labels.text.stroke', stylers: [{color: '#b48259'}]},
 	{elementType: 'labels.text.fill', stylers: [{color: '#000000'}]},
 	{
 		featureType: 'administrative.locality',
