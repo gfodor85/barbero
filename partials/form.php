@@ -21,7 +21,7 @@
                 <textarea class="form-control" name="message" id="message" rows="5" placeholder="Your Message" required></textarea>
             </div><br>
 
-            <button class="btn btn-form" type="submit" name="send">Send Message</button>
+            <button class="btn btn-form" type="submit" name="send">Book</button>
             
         </form>
 

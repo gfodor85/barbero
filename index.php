@@ -98,7 +98,7 @@
                 </div>
                 <div class="col-lg-4 services-content">
                         <h6>Beard Triming</h6>
-                        <img src="assets/img/haircut.jpg">
+                        <img src="assets/img/beard-trimming.jpg">
                 </div>
                 <div class="col-lg-4 services-content">
                     <h6>Hot Shave</h6>
@@ -112,7 +112,7 @@
     <!-- Prices -->
     <div id="prices" class="prices_container">
         <div class="container">
-            <h4 class="text-center">Our Prices<hr class="default-hr"></h4>
+            <h5 class="text-center">Our Prices<hr></h5>
             <div class="row justify-content-center">
               <div class="col-lg-6">
                   <table class="table table-hover borderless">
